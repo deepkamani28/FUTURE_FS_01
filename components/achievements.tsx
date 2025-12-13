@@ -33,11 +33,11 @@ export default function Achievements() {
 
   const achievements : Achievement[] = [
     {
-      year: "2023",
-      title: "Infosys Springboard Course",
-      description: "Database and SQL",
+      year: "2025",
+      title: "NPTEL Online Certification",
+      description: "Introduction to Internet of Things",
       type: "Certification",
-      certificateUrl:"/DBMS.pdf",
+      certificateUrl:"/IoT.pdf",
     },
     {
       year: "2024",
@@ -47,11 +47,11 @@ export default function Achievements() {
       certificateUrl:"/CN.pdf",
     },
     {
-      year: "2025",
-      title: "NPTEL Online Certification",
-      description: "Introduction to Internet of Things",
+      year: "2023",
+      title: "Infosys Springboard Course",
+      description: "Database and SQL",
       type: "Certification",
-      certificateUrl:"/IoT.pdf",
+      certificateUrl:"/DBMS.pdf",
     }
   ]
 
